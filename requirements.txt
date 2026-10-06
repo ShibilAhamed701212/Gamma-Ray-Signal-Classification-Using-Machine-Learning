@@ -1,0 +1,8 @@
+# Compatible ranges; the saved notebook outputs were produced with numpy 2.4, pandas 3.0, scikit-learn 1.9, imbalanced-learn 0.14, tensorflow-cpu 2.21 (Python 3.11)
+numpy>=2.0,<3
+pandas>=2.2,<4
+matplotlib>=3.8
+scikit-learn>=1.5
+imbalanced-learn>=0.12
+tensorflow>=2.16
+jupyter
